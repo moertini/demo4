@@ -1,3 +1,6 @@
 Dibuat di repo lokal
 
 Diubah di repo sentral
+
+Diedit berta di repo lokal
+
